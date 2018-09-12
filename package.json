@@ -2,7 +2,7 @@
     "devDependencies": {
         "eclint": "^2.8.0",
         "eslint": "^5.5.0",
-        "lerna": "^3.2.1"
+        "lerna": "^3.3.1"
     },
     "scripts": {
         "lint:js": "eslint packages/ *.json --ext js,json",
