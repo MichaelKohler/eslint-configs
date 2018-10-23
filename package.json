@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-        "eclint": "^2.8.0",
+        "eclint": "^2.8.1",
         "eslint": "^5.7.0",
         "lerna": "^3.4.3"
     },
