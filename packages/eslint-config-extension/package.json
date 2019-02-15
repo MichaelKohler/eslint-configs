@@ -24,6 +24,6 @@
     "@freaktechnik/eslint-config-browser": "^6.5.4"
   },
   "peerDependencies": {
-    "eslint": ">=5.0.0"
+    "eslint": ">=5.14.0"
   }
 }
