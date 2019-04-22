@@ -84,7 +84,7 @@ module.exports = {
         "no-useless-return": 2,
         "no-with": 1,
         "radix": 2,
-        "no-use-before-define": 0,
+        "no-use-before-define": 2,
         "yoda": 2,
         "no-catch-shadow": 2,
         "no-shadow": 1,

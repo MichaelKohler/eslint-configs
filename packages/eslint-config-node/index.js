@@ -13,6 +13,7 @@ module.exports = {
         "no-new-require": 2,
         "no-sync": 1,
         "no-buffer-constructor": 2,
+        "no-use-before-define": 0,
         "handle-callback-err": 1,
         "security/detect-non-literal-fs-filename": 1
     },
