@@ -1,6 +1,6 @@
 {
   "name": "michaelkohler-eslint-config-vue",
-  "version": "6.7.0",
+  "version": "6.8.0",
   "description": "Vue specific eslint config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
-    "michaelkohler-eslint-config-browser": "^6.7.0",
-    "michaelkohler-eslint-config-webpack": "^6.7.0",
-    "eslint-plugin-vue": "^5.2.1"
+    "eslint-plugin-vue": "^5.2.1",
+    "michaelkohler-eslint-config-browser": "^6.8.0",
+    "michaelkohler-eslint-config-webpack": "^6.8.0"
   }
 }

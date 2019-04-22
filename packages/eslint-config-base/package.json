@@ -1,6 +1,6 @@
 {
   "name": "michaelkohler-eslint-config-base",
-  "version": "6.7.0",
+  "version": "6.8.0",
   "description": "Basic configuration for JS and JSON linting Michael likes.",
   "main": "index.js",
   "scripts": {
