@@ -84,7 +84,7 @@ module.exports = {
         "no-useless-return": 2,
         "no-with": 1,
         "radix": 2,
-        "no-use-before-define": 2,
+        "no-use-before-define": 0,
         "yoda": 2,
         "no-catch-shadow": 2,
         "no-shadow": 1,
@@ -110,7 +110,7 @@ module.exports = {
             "stroustrup"
         ],
         "camelcase": 2,
-        "comma-dangle": 2,
+        "comma-dangle": 0,
         "comma-spacing": 2,
         "comma-style": 2,
         "computed-property-spacing": 2,
@@ -126,14 +126,13 @@ module.exports = {
             2,
             {
                 overrides: {
-                    if: { "after": false },
-                    for: { "after": false },
-                    while: { "after": false },
-                    catch: { "after": false },
-                    function: { "after": false },
+                    if: { "after": true },
+                    for: { "after": true },
+                    while: { "after": true },
+                    catch: { "after": true },
+                    function: { "after": true },
                     super: { "after": false },
-                    switch: { "after": false },
-                    with: { "after": false }
+                    switch: { "after": true }
                 }
             }
         ],
