@@ -1,6 +1,6 @@
 {
   "name": "@michaelkohler/eslint-config-node",
-  "version": "6.8.2",
+  "version": "6.8.3",
   "description": "Node specific eslint config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
