@@ -21,6 +21,5 @@
     },
     "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
     "author": "Martin Giger (https://humanoids.be), Michael Kohler",
-    "license": "MIT",
-    "private": true
+    "license": "MIT"
 }
