@@ -10,13 +10,9 @@ module.exports = {
     },
     plugins: [
         "import",
-        "tree-shaking"
     ],
     settings: {
         "import/resolver": "webpack"
-    },
-    rules: {
-        "tree-shaking/no-side-effects-in-initialization": "error"
     },
     extends: [
         "plugin:import/errors",

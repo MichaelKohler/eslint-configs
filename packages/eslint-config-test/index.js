@@ -22,7 +22,6 @@ module.exports = {
             "^_?[a-z0-9-]+$"
         ],
         "security/detect-non-literal-fs-filename": 0,
-        "tree-shaking/no-side-effects-in-initialization": 0,
         "node/no-unsupported-features/es-syntax": [
             "error",
             {
