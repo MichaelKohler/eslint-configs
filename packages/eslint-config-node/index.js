@@ -6,7 +6,7 @@ module.exports = {
         es6: true
     },
     parserOptions: {
-        ecmaVersion: 2016
+        ecmaVersion: 2018
     },
     plugins: [ "node" ],
     rules: {
