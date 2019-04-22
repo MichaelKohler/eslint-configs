@@ -1,5 +1,5 @@
 {
-  "name": "michaelkohler-eslint-config-browser",
+  "name": "@michaelkohler/eslint-config-browser",
   "version": "6.8.1",
   "description": "Eslint config to lint js for the browser michaelkohler likes.",
   "main": "index.js",
@@ -27,6 +27,6 @@
   "dependencies": {
     "eslint-plugin-compat": "^3.0.0",
     "eslint-plugin-xss": "^0.1.9",
-    "michaelkohler-eslint-config-base": "^6.8.1"
+    "@michaelkohler/eslint-config-base": "^6.8.1"
   }
 }

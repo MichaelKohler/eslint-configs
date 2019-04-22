@@ -5,5 +5,5 @@
     "rules": {
         "no-magic-numbers": 0
     },
-    "extends": "michaelkohler-eslint-config-base"
+    "extends": "@michaelkohler/eslint-config-base"
 }

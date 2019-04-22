@@ -11,5 +11,5 @@ module.exports = {
         "strict": 0,
         "tree-shaking/no-side-effects-in-initialization": 0
     },
-    extends: [ "michaelkohler-eslint-config-browser" ]
+    extends: [ "@michaelkohler/eslint-config-browser" ]
 };

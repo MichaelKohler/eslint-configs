@@ -17,7 +17,7 @@ module.exports = {
         "security/detect-non-literal-fs-filename": 1
     },
     extends: [
-        "michaelkohler-eslint-config-base",
+        "@michaelkohler/eslint-config-base",
         "plugin:node/recommended"
     ]
 };

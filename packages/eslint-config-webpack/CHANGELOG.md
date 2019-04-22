@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [6.8.0](https://github.com/michaelkohler/eslint-configs/compare/v6.6.3...v6.8.0) (2019-04-22)
 
-**Note:** Version bump only for package michaelkohler-eslint-config-webpack
+**Note:** Version bump only for package @michaelkohler/eslint-config-webpack
 
 
 
@@ -13,7 +13,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [6.7.0](https://github.com/michaelkohler/eslint-configs/compare/v6.6.3...v6.7.0) (2019-04-22)
 
-**Note:** Version bump only for package michaelkohler-eslint-config-webpack
+**Note:** Version bump only for package @michaelkohler/eslint-config-webpack
 
 
 

@@ -12,8 +12,8 @@ module.exports = {
         ]
     },
     extends: [
-        "michaelkohler-eslint-config-browser",
-        "michaelkohler-eslint-config-webpack",
+        "@michaelkohler/eslint-config-browser",
+        "@michaelkohler/eslint-config-webpack",
         "plugin:vue/strongly-recommended"
     ]
 };
