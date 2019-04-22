@@ -1,30 +1,30 @@
 {
-  "name": "@freaktechnik/eslint-config-react",
+  "name": "@michaelkohler/eslint-config-react",
   "version": "6.6.3",
-  "description": "React and JSX linting config freaktechnik likes.",
+  "description": "React and JSX linting config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freaktechnik/eslint-configs.git",
+    "url": "git+https://github.com/michaelkohler/eslint-configs.git",
     "directory": "packages/eslint-config-react"
   },
   "keywords": [
     "eslintconfig",
     "eslint"
   ],
-  "author": "Martin Giger (https://humanoids.be)",
+  "author": "Martin Giger (https://humanoids.be), Michael Kohler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freaktechnik/eslint-configs/issues"
+    "url": "https://github.com/michaelkohler/eslint-configs/issues"
   },
-  "homepage": "https://github.com/freaktechnik/eslint-configs#readme",
+  "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
-    "@freaktechnik/eslint-config-babel": "^6.6.2",
-    "@freaktechnik/eslint-config-browser": "^6.6.3",
-    "@freaktechnik/eslint-config-webpack": "^6.6.2",
+    "@michaelkohler/eslint-config-babel": "^6.6.2",
+    "@michaelkohler/eslint-config-browser": "^6.6.3",
+    "@freaktemichaelkohlerchnik/eslint-config-webpack": "^6.6.2",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4"
   }

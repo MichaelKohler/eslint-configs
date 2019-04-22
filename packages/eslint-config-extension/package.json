@@ -1,14 +1,14 @@
 {
-  "name": "@freaktechnik/eslint-config-extension",
+  "name": "@michaelkohler/eslint-config-extension",
   "version": "6.6.3",
-  "description": "Browser extension linting config freaktechnik likes.",
+  "description": "Browser extension linting config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freaktechnik/eslint-configs.git",
+    "url": "git+https://github.com/michaelkohler/eslint-configs.git",
     "directory": "packages/eslint-config-extension"
   },
   "keywords": [
@@ -18,11 +18,11 @@
   "author": "Martin Giger (https://humanoids.be)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freaktechnik/eslint-configs/issues"
+    "url": "https://github.com/michaelkohler/eslint-configs/issues"
   },
-  "homepage": "https://github.com/freaktechnik/eslint-configs#readme",
+  "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
-    "@freaktechnik/eslint-config-browser": "^6.6.3"
+    "@michaelkohler/eslint-config-browser": "^6.6.3"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"

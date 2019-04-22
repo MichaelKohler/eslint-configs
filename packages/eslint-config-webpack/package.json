@@ -1,14 +1,14 @@
 {
-  "name": "@freaktechnik/eslint-config-webpack",
+  "name": "@michaelkohler/eslint-config-webpack",
   "version": "6.6.2",
-  "description": "Webpack specific linting config freaktechnik likes.",
+  "description": "Webpack specific linting config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freaktechnik/eslint-configs.git",
+    "url": "git+https://github.com/michaelkohler/eslint-configs.git",
     "directory": "packages/eslint-config-webpack"
   },
   "keywords": [
@@ -18,9 +18,9 @@
   "author": "Martin Giger (https://humanoids.be)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freaktechnik/eslint-configs/issues"
+    "url": "https://github.com/michaelkohler/eslint-configs/issues"
   },
-  "homepage": "https://github.com/freaktechnik/eslint-configs#readme",
+  "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "peerDependencies": {
     "eslint": ">=5.0.0"
   },

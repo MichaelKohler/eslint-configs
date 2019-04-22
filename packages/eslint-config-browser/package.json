@@ -1,31 +1,31 @@
 {
-  "name": "@freaktechnik/eslint-config-browser",
+  "name": "@michaelkohler/eslint-config-browser",
   "version": "6.6.3",
-  "description": "Eslint config to lint js for the browser freaktechnik likes.",
+  "description": "Eslint config to lint js for the browser michaelkohler likes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freaktechnik/eslint-configs.git",
+    "url": "git+https://github.com/michaelkohler/eslint-configs.git",
     "directory": "packages/eslint-config-browser"
   },
   "keywords": [
     "eslintconfig",
     "eslint"
   ],
-  "author": "Martin Giger (https://humanoids.be)",
+  "author": "Martin Giger (https://humanoids.be), Michael Kohler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freaktechnik/eslint-configs/issues"
+    "url": "https://github.com/michaelkohler/eslint-configs/issues"
   },
-  "homepage": "https://github.com/freaktechnik/eslint-configs#readme",
+  "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "peerDependencies": {
     "eslint": ">=5.0.0"
   },
   "dependencies": {
-    "@freaktechnik/eslint-config-base": "^6.6.2",
+    "@michaelkohler/eslint-config-base": "^6.6.2",
     "eslint-plugin-compat": "^3.0.0",
     "eslint-plugin-xss": "^0.1.9"
   }
