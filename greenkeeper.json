@@ -1,22 +1,21 @@
 {
-    "groups": {
-        "meta": {
-            "packages": [
-                "package.json"
-            ]
-        },
-        "default": {
-            "packages": [
-                "packages/eslint-config-babel/package.json",
-                "packages/eslint-config-base/package.json",
-                "packages/eslint-config-browser/package.json",
-                "packages/eslint-config-extension/package.json",
-                "packages/eslint-config-node/package.json",
-                "packages/eslint-config-react/package.json",
-                "packages/eslint-config-test/package.json",
-                "packages/eslint-config-webpack/package.json",
-                "packages/eslint-config-vue/package.json"
-            ]
-        }
+  "groups": {
+    "meta": {
+      "packages": [
+        "package.json"
+      ]
+    },
+    "default": {
+      "packages": [
+        "packages/eslint-config-babel/package.json",
+        "packages/eslint-config-base/package.json",
+        "packages/eslint-config-browser/package.json",
+        "packages/eslint-config-extension/package.json",
+        "packages/eslint-config-node/package.json",
+        "packages/eslint-config-react/package.json",
+        "packages/eslint-config-webpack/package.json",
+        "packages/eslint-config-vue/package.json"
+      ]
     }
+  }
 }
