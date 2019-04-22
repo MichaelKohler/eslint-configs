@@ -1,5 +1,5 @@
 {
-  "name": "@michaelkohler/eslint-config-webpack",
+  "name": "michaelkohler-eslint-config-webpack",
   "version": "6.7.0",
   "description": "Webpack specific linting config michaelkohler likes.",
   "main": "index.js",

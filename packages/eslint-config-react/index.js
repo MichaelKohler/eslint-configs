@@ -48,9 +48,9 @@ module.exports = {
     },
     plugins: [ "jsx-a11y" ],
     extends: [
-        "@michaelkohler/eslint-config-browser",
-        "@michaelkohler/eslint-config-webpack",
-        "@michaelkohler/eslint-config-babel",
+        "michaelkohler-eslint-config-browser",
+        "michaelkohler-eslint-config-webpack",
+        "michaelkohler-eslint-config-babel",
         "plugin:react/recommended",
         "plugin:jsx-a11y/recommended"
     ]
