@@ -41,7 +41,7 @@ module.exports = {
         ],
         "indent": [
             "error",
-            4
+            2
         ],
         "array-callback-return": 2,
         "consistent-return": 1,
@@ -161,7 +161,7 @@ module.exports = {
         ],
         "object-property-newline": 2,
         "one-var-declaration-per-line": 2,
-        "one-var": 1,
+        "one-var": 0,
         "operator-linebreak": 2,
         "padded-blocks": [
             "error",
