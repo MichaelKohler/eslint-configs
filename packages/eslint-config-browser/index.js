@@ -21,5 +21,5 @@ module.exports = {
         "unicorn/prefer-node-remove": "warn",
         "unicorn/prefer-text-content": "error"
     },
-    extends: [ "@freaktechnik/eslint-config-base" ]
+    extends: [ "@michaelkohler/eslint-config-base" ]
 };

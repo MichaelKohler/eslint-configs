@@ -40,6 +40,6 @@ module.exports = {
         "plugin:ava/recommended",
         "plugin:import/errors",
         "plugin:import/warnings",
-        "@freaktechnik/eslint-config-node"
+        "@michaelkohler/eslint-config-node"
     ]
 };
