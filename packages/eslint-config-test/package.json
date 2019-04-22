@@ -1,6 +1,6 @@
 {
   "name": "@michaelkohler/eslint-config-test",
-  "version": "6.8.1",
+  "version": "6.8.2",
   "description": "Ava specific eslint config for tests michaelkohler likes.",
   "main": "index.js",
   "scripts": {
@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
+    "@michaelkohler/eslint-config-node": "^6.8.2",
     "eslint-import-resolver-node": "^0.3.2",
     "eslint-plugin-ava": "^6.0.0",
-    "eslint-plugin-import": "^2.16.0",
-    "@michaelkohler/eslint-config-node": "^6.8.1"
+    "eslint-plugin-import": "^2.16.0"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"
