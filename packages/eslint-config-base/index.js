@@ -110,7 +110,10 @@ module.exports = {
       "stroustrup"
     ],
     "camelcase": 2,
-    "comma-dangle": 0,
+    "comma-dangle": [
+      2,
+      "always"
+    ],
     "comma-spacing": 2,
     "comma-style": 2,
     "computed-property-spacing": 2,
