@@ -19,7 +19,7 @@ module.exports = {
     "node/no-unsupported-features": 0,
     "filenames/match-regex": [
       2,
-      "^_?[a-z0-9-]+$"
+      "^_?[a-z0-9-]+$",
     ],
     "security/detect-non-literal-fs-filename": 0,
     "node/no-unsupported-features/es-syntax": [
@@ -27,18 +27,18 @@ module.exports = {
       {
         "ignores": [
           "modules",
-          "asyncFunctions"
-        ]
-      }
-    ]
+          "asyncFunctions",
+        ],
+      },
+    ],
   },
   settings: {
-    "import/resolver": "node"
+    "import/resolver": "node",
   },
   extends: [
     "plugin:ava/recommended",
     "plugin:import/errors",
     "plugin:import/warnings",
-    "@michaelkohler/eslint-config-node"
-  ]
+    "@michaelkohler/eslint-config-node",
+  ],
 };

@@ -2,14 +2,14 @@
 
 module.exports = {
   env: {
-    browser: true
+    browser: true,
   },
   parserOptions: {
-    ecmaVersion: 2017
+    ecmaVersion: 2017,
   },
   plugins: [
     "xss",
-    "compat"
+    "compat",
   ],
   rules: {
     "xss/no-mixed-html": 2,
@@ -18,7 +18,7 @@ module.exports = {
     "unicorn/prefer-add-event-listener": "error",
     "unicorn/prefer-node-append": "warn",
     "unicorn/prefer-node-remove": "warn",
-    "unicorn/prefer-text-content": "error"
+    "unicorn/prefer-text-content": "error",
   },
-  extends: [ "@michaelkohler/eslint-config-base" ]
+  extends: [ "@michaelkohler/eslint-config-base" ],
 };

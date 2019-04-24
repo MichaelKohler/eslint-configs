@@ -3,10 +3,10 @@
 module.exports = {
   env: {
     node: true,
-    es6: true
+    es6: true,
   },
   parserOptions: {
-    ecmaVersion: 2018
+    ecmaVersion: 2018,
   },
   plugins: [ "node" ],
   rules: {
@@ -15,10 +15,10 @@ module.exports = {
     "no-buffer-constructor": 2,
     "no-use-before-define": 0,
     "handle-callback-err": 1,
-    "security/detect-non-literal-fs-filename": 1
+    "security/detect-non-literal-fs-filename": 1,
   },
   extends: [
     "@michaelkohler/eslint-config-base",
-    "plugin:node/recommended"
-  ]
+    "plugin:node/recommended",
+  ],
 };

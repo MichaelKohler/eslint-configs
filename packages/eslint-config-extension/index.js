@@ -2,13 +2,13 @@
 
 module.exports = {
   env: {
-    webextensions: true
+    webextensions: true,
   },
   parserOptions: {
-    ecmaVersion: 2017
+    ecmaVersion: 2017,
   },
   rules: {
     "strict": 0,
   },
-  extends: [ "@michaelkohler/eslint-config-browser" ]
+  extends: [ "@michaelkohler/eslint-config-browser" ],
 };

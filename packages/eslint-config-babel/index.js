@@ -11,9 +11,9 @@ module.exports = {
     "babel/new-cap": 2,
     "babel/object-curly-spacing": [
       "error",
-      "always"
+      "always",
     ],
     "babel/no-invalid-this": 2,
-    "babel/semi": 2
-  }
+    "babel/semi": 2,
+  },
 };

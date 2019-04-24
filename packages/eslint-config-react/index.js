@@ -22,15 +22,15 @@ module.exports = {
     "react/jsx-no-bind": "warn",
     "react/jsx-indent": [
       "error",
-      4
+      4,
     ],
     "react/jsx-equals-spacing": "error",
     "react/jsx-curly-spacing": [
       "warn",
       {
         when: "always",
-        children: true
-      }
+        children: true,
+      },
     ],
     "react/jsx-filename-extension": "warn",
     "react/jsx-no-comment-textnodes": "warn",
@@ -40,11 +40,11 @@ module.exports = {
         "closingSlash": "never",
         "beforeSelfClosing": "never",
         "afterOpening": "never",
-        "beforeClosing": "never"
-      }
+        "beforeClosing": "never",
+      },
     ],
     "react/jsx-props-no-multi-spaces": "error",
-    "react/jsx-pascal-case": "warn"
+    "react/jsx-pascal-case": "warn",
   },
   plugins: [ "jsx-a11y" ],
   extends: [
@@ -52,6 +52,6 @@ module.exports = {
     "@michaelkohler/eslint-config-webpack",
     "@michaelkohler/eslint-config-babel",
     "plugin:react/recommended",
-    "plugin:jsx-a11y/recommended"
-  ]
+    "plugin:jsx-a11y/recommended",
+  ],
 };

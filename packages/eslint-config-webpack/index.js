@@ -3,17 +3,17 @@
 module.exports = {
   parserOptions: {
     sourceType: "module",
-    ecmaVersion: 2015
+    ecmaVersion: 2015,
   },
   env: {
-    commonjs: true
+    commonjs: true,
   },
-  plugins: [ "import", ],
+  plugins: [ "import" ],
   settings: {
-    "import/resolver": "webpack"
+    "import/resolver": "webpack",
   },
   extends: [
     "plugin:import/errors",
-    "plugin:import/warnings"
-  ]
+    "plugin:import/warnings",
+  ],
 };

@@ -2,10 +2,10 @@
 
 module.exports = {
   env: {
-    es6: true
+    es6: true,
   },
   parserOptions: {
-    ecmaVersion: 6
+    ecmaVersion: 6,
   },
   plugins: [
     "jsdoc",
@@ -15,7 +15,7 @@ module.exports = {
     "promise",
     "eslint-comments",
     "sort-class-members",
-    "unicorn"
+    "unicorn",
   ],
   rules: {
     "jsdoc/check-param-names": 2,
@@ -35,24 +35,24 @@ module.exports = {
       {
         allow: [
           "warn",
-          "error"
-        ]
-      }
+          "error",
+        ],
+      },
     ],
     "indent": [
       "error",
-      2
+      2,
     ],
     "array-callback-return": 2,
     "consistent-return": 1,
     "curly": [
       "error",
-      "all"
+      "all",
     ],
     "default-case": 2,
     "dot-location": [
       2,
-      "property"
+      "property",
     ],
     "dot-notation": 2,
     "no-caller": 2,
@@ -91,35 +91,35 @@ module.exports = {
     "array-bracket-newline": [
       "error",
       {
-        minItems: 2
-      }
+        minItems: 2,
+      },
     ],
     "array-bracket-spacing": [
       2,
-      "always"
+      "always",
     ],
     "array-element-newline": [
       "error",
       {
-        minItems: 2
-      }
+        minItems: 2,
+      },
     ],
     "block-spacing": 2,
     "brace-style": [
       2,
-      "stroustrup"
+      "stroustrup",
     ],
     "camelcase": 2,
     "comma-dangle": [
       2,
-      "always-multiline"
+      "always-multiline",
     ],
     "comma-spacing": 2,
     "comma-style": 2,
     "computed-property-spacing": 2,
     "consistent-this": [
       2,
-      "self"
+      "self",
     ],
     "eol-last": 2,
     "func-call-spacing": 2,
@@ -135,9 +135,9 @@ module.exports = {
           catch: { "after": true },
           function: { "after": true },
           super: { "after": false },
-          switch: { "after": true }
-        }
-      }
+          switch: { "after": true },
+        },
+      },
     ],
     "linebreak-style": 2,
     "new-cap": 2,
@@ -154,12 +154,12 @@ module.exports = {
       "error",
       {
         minProperties: 2,
-        consistent: true
-      }
+        consistent: true,
+      },
     ],
     "object-curly-spacing": [
       2,
-      "always"
+      "always",
     ],
     "object-property-newline": 2,
     "one-var-declaration-per-line": 2,
@@ -167,7 +167,7 @@ module.exports = {
     "operator-linebreak": 2,
     "padded-blocks": [
       "error",
-      "never"
+      "never",
     ],
     "semi-spacing": 2,
     "semi": 2,
@@ -177,8 +177,8 @@ module.exports = {
       {
         anonymous: "never",
         named: "never",
-        asyncArrow: "always"
-      }
+        asyncArrow: "always",
+      },
     ],
     "no-alert": 2,
     "space-infix-ops": 2,
@@ -188,7 +188,7 @@ module.exports = {
     "arrow-spacing": 2,
     "generator-star-spacing": [
       2,
-      "after"
+      "after",
     ],
     "no-var": 2,
     "object-shorthand": 1,
@@ -200,7 +200,7 @@ module.exports = {
     "no-throw-literal": 1,
     "semi-style": [
       2,
-      "last"
+      "last",
     ],
     "switch-colon-spacing": 2,
     "template-tag-spacing": 2,
@@ -224,7 +224,7 @@ module.exports = {
     "no-misleading-character-class": 2,
     "filenames/match-regex": [
       2,
-      "^[a-z0-9-]+$"
+      "^[a-z0-9-]+$",
     ],
     "promise/always-return": 1,
     "security/detect-non-literal-fs-filename": 0,
@@ -244,34 +244,34 @@ module.exports = {
           "[conventional-private-getters]",
           "[conventional-private-accessor-pairs]",
           "[methods]",
-          "[conventional-private-methods]"
+          "[conventional-private-methods]",
         ],
         groups: {
           "static-accessor-pairs": [ {
             type: "method",
             accessorPair: true,
-            static: true
+            static: true,
           } ],
           "static-getters": [ {
             type: "method",
             kind: "get",
             static: true,
-            accessorPair: false
+            accessorPair: false,
           } ],
           "conventional-private-getters": [ {
             type: "method",
             kind: "get",
             accessorPair: false,
-            name: "/_.+/"
+            name: "/_.+/",
           } ],
           "conventional-private-accessor-pairs": [ {
             type: "method",
             accessorPair: true,
-            name: "/_.+/"
-          } ]
+            name: "/_.+/",
+          } ],
         },
-        accessorPairPositioning: "getThenSet"
-      }
+        accessorPairPositioning: "getThenSet",
+      },
     ],
     "security/detect-object-injection": 0,
     "unicorn/throw-new-error": "error",
@@ -288,24 +288,24 @@ module.exports = {
     "unicorn/prefer-exponentiation-operator": "warn",
     "unicorn/no-console-spaces": "warn",
     "unicorn/no-for-loop": "error",
-    "unicorn/prefer-includes": "error"
+    "unicorn/prefer-includes": "error",
   },
   settings: {
     jsdoc: {
       tagNamePreference: {
         augments: "extends",
-        constant: "const"
+        constant: "const",
       },
       additionalTagNames: {
-        customTags: [ "async" ]
-      }
-    }
+        customTags: [ "async" ],
+      },
+    },
   },
   extends: [
     "eslint:recommended",
     "plugin:promise/recommended",
     "plugin:security/recommended",
     "plugin:array-func/recommended",
-    "plugin:eslint-comments/recommended"
-  ]
+    "plugin:eslint-comments/recommended",
+  ],
 };
