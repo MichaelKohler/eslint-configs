@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "@michaelkohler/eslint-config-base": "^6.8.7",
-    "eslint-plugin-node": "^8.0.1"
+    "eslint-plugin-node": "^9.0.0"
   }
 }
