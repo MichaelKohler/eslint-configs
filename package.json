@@ -3,7 +3,7 @@
     "devDependencies": {
         "@michaelkohler/eslint-config-base": "^6.8.7",
         "eclint": "^2.8.1",
-        "eslint": "^5.9.0",
+        "eslint": "^6.0.1",
         "lerna": "^3.5.1"
     },
     "scripts": {
