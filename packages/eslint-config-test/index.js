@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  plugins: [ "ava" ],
+  plugins: ["ava"],
   rules: {
     "jsdoc/check-param-names": 0,
     "jsdoc/check-tag-names": 0,

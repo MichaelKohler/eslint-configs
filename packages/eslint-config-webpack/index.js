@@ -8,7 +8,7 @@ module.exports = {
   env: {
     commonjs: true,
   },
-  plugins: [ "import" ],
+  plugins: ["import"],
   settings: {
     "import/resolver": "webpack",
   },

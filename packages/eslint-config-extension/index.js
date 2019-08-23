@@ -10,5 +10,5 @@ module.exports = {
   rules: {
     "strict": 0,
   },
-  extends: [ "@michaelkohler/eslint-config-browser" ],
+  extends: ["@michaelkohler/eslint-config-browser"],
 };

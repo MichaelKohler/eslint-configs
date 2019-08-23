@@ -247,28 +247,28 @@ module.exports = {
           "[conventional-private-methods]",
         ],
         groups: {
-          "static-accessor-pairs": [ {
+          "static-accessor-pairs": [{
             type: "method",
             accessorPair: true,
             static: true,
-          } ],
-          "static-getters": [ {
+          }],
+          "static-getters": [{
             type: "method",
             kind: "get",
             static: true,
             accessorPair: false,
-          } ],
-          "conventional-private-getters": [ {
+          }],
+          "conventional-private-getters": [{
             type: "method",
             kind: "get",
             accessorPair: false,
             name: "/_.+/",
-          } ],
-          "conventional-private-accessor-pairs": [ {
+          }],
+          "conventional-private-accessor-pairs": [{
             type: "method",
             accessorPair: true,
             name: "/_.+/",
-          } ],
+          }],
         },
         accessorPairPositioning: "getThenSet",
       },
@@ -297,7 +297,7 @@ module.exports = {
         constant: "const",
       },
       additionalTagNames: {
-        customTags: [ "async" ],
+        customTags: ["async"],
       },
     },
   },
