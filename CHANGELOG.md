@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.8](https://github.com/michaelkohler/eslint-configs/compare/v6.8.7...v6.8.8) (2019-08-23)
+
+
+### Bug Fixes
+
+* allow 4 properties on one line ([9b9a633](https://github.com/michaelkohler/eslint-configs/commit/9b9a633))
+* **package:** update eslint-plugin-jsdoc to version 14.0.0 ([85a5dfd](https://github.com/michaelkohler/eslint-configs/commit/85a5dfd)), closes [#14](https://github.com/michaelkohler/eslint-configs/issues/14)
+* **package:** update eslint-plugin-jsdoc to version 15.1.0 ([316d378](https://github.com/michaelkohler/eslint-configs/commit/316d378)), closes [#17](https://github.com/michaelkohler/eslint-configs/issues/17)
+* **package:** update eslint-plugin-jsdoc to version 5.0.0 ([28a9822](https://github.com/michaelkohler/eslint-configs/commit/28a9822))
+* **package:** update eslint-plugin-jsdoc to version 7.0.2 ([ea71bfd](https://github.com/michaelkohler/eslint-configs/commit/ea71bfd)), closes [#6](https://github.com/michaelkohler/eslint-configs/issues/6)
+* **package:** update eslint-plugin-jsdoc to version 8.0.0 ([a7f3731](https://github.com/michaelkohler/eslint-configs/commit/a7f3731))
+* **package:** update eslint-plugin-node to version 9.0.0 ([62e0ed5](https://github.com/michaelkohler/eslint-configs/commit/62e0ed5))
+* **package:** update eslint-plugin-unicorn to version 10.0.0 ([fefc54e](https://github.com/michaelkohler/eslint-configs/commit/fefc54e))
+* **package:** update eslint-plugin-unicorn to version 9.0.0 ([1aff626](https://github.com/michaelkohler/eslint-configs/commit/1aff626))
+
+
+
+
+
 ## [6.8.7](https://github.com/michaelkohler/eslint-configs/compare/v6.8.6...v6.8.7) (2019-04-23)
 
 **Note:** Version bump only for package eslint-configs-michaelkohler

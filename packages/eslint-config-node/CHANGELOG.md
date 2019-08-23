@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.8](https://github.com/michaelkohler/eslint-configs/compare/v6.8.7...v6.8.8) (2019-08-23)
+
+
+### Bug Fixes
+
+* **package:** update eslint-plugin-node to version 9.0.0 ([62e0ed5](https://github.com/michaelkohler/eslint-configs/commit/62e0ed5))
+
+
+
+
+
 ## [6.8.7](https://github.com/michaelkohler/eslint-configs/compare/v6.8.6...v6.8.7) (2019-04-23)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-node
