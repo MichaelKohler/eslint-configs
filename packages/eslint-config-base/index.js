@@ -153,7 +153,7 @@ module.exports = {
     "object-curly-newline": [
       "error",
       {
-        minProperties: 2,
+        minProperties: 4,
         consistent: true,
       },
     ],
