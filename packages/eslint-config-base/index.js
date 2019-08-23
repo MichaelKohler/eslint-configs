@@ -96,7 +96,7 @@ module.exports = {
     ],
     "array-bracket-spacing": [
       2,
-      "always",
+      "never",
     ],
     "array-element-newline": [
       "error",
