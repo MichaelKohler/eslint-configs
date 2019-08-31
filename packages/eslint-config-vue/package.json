@@ -25,5 +25,6 @@
     "@michaelkohler/eslint-config-browser": "^6.8.9",
     "@michaelkohler/eslint-config-webpack": "^6.8.9",
     "eslint-plugin-vue": "^5.2.1"
-  }
+  },
+  "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e"
 }

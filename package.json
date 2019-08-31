@@ -1,7 +1,7 @@
 {
     "name": "eslint-configs-michaelkohler",
     "devDependencies": {
-        "@michaelkohler/eslint-config-base": "^6.8.8",
+        "@michaelkohler/eslint-config-base": "^6.8.9",
         "eclint": "^2.8.1",
         "eslint": "^6.2.1",
         "lerna": "^3.16.4"

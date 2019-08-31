@@ -7,10 +7,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2017,
   },
-  plugins: [
-    "xss",
-    "compat",
-  ],
+  plugins: ["xss", "compat"],
   rules: {
     "xss/no-mixed-html": 2,
     "xss/no-location-href-assign": 2,

@@ -20,29 +20,20 @@ module.exports = {
     "react/no-unused-state": "error",
     "react/no-will-update-set-state": "error",
     "react/jsx-no-bind": "warn",
-    "react/jsx-indent": [
-      "error",
-      4,
-    ],
+    "react/jsx-indent": ["error", 4],
     "react/jsx-equals-spacing": "error",
-    "react/jsx-curly-spacing": [
-      "warn",
-      {
-        when: "always",
-        children: true,
-      },
-    ],
+    "react/jsx-curly-spacing": ["warn", {
+      when: "always",
+      children: true,
+    }],
     "react/jsx-filename-extension": "warn",
     "react/jsx-no-comment-textnodes": "warn",
-    "react/jsx-tag-spacing": [
-      "error",
-      {
-        "closingSlash": "never",
-        "beforeSelfClosing": "never",
-        "afterOpening": "never",
-        "beforeClosing": "never",
-      },
-    ],
+    "react/jsx-tag-spacing": ["error", {
+      "closingSlash": "never",
+      "beforeSelfClosing": "never",
+      "afterOpening": "never",
+      "beforeClosing": "never",
+    }],
     "react/jsx-props-no-multi-spaces": "error",
     "react/jsx-pascal-case": "warn",
   },

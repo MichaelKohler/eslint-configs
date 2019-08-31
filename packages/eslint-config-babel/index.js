@@ -9,10 +9,7 @@ module.exports = {
     "no-invalid-this": 0,
     "semi": 0,
     "babel/new-cap": 2,
-    "babel/object-curly-spacing": [
-      "error",
-      "always",
-    ],
+    "babel/object-curly-spacing": ["error", "always"],
     "babel/no-invalid-this": 2,
     "babel/semi": 2,
   },

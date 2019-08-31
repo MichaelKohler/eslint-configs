@@ -27,5 +27,6 @@
     "@michaelkohler/eslint-config-webpack": "^6.8.9",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4"
-  }
+  },
+  "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e"
 }

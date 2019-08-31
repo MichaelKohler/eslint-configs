@@ -17,20 +17,11 @@ module.exports = {
     "one-var": 0,
     "no-magic-numbers": 0,
     "node/no-unsupported-features": 0,
-    "filenames/match-regex": [
-      2,
-      "^_?[a-z0-9-]+$",
-    ],
+    "filenames/match-regex": [2, "^_?[a-z0-9-]+$"],
     "security/detect-non-literal-fs-filename": 0,
-    "node/no-unsupported-features/es-syntax": [
-      "error",
-      {
-        "ignores": [
-          "modules",
-          "asyncFunctions",
-        ],
-      },
-    ],
+    "node/no-unsupported-features/es-syntax": ["error", {
+      "ignores": ["modules", "asyncFunctions"],
+    }],
   },
   settings: {
     "import/resolver": "node",

@@ -17,8 +17,5 @@ module.exports = {
     "handle-callback-err": 1,
     "security/detect-non-literal-fs-filename": 1,
   },
-  extends: [
-    "@michaelkohler/eslint-config-base",
-    "plugin:node/recommended",
-  ],
+  extends: ["@michaelkohler/eslint-config-base", "plugin:node/recommended"],
 };

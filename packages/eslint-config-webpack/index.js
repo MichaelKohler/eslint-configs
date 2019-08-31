@@ -12,8 +12,5 @@ module.exports = {
   settings: {
     "import/resolver": "webpack",
   },
-  extends: [
-    "plugin:import/errors",
-    "plugin:import/warnings",
-  ],
+  extends: ["plugin:import/errors", "plugin:import/warnings"],
 };
