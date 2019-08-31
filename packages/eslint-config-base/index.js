@@ -91,7 +91,7 @@ module.exports = {
     "array-bracket-newline": [
       "error",
       {
-        minItems: 2,
+        minItems: 4,
       },
     ],
     "array-bracket-spacing": [
@@ -101,7 +101,7 @@ module.exports = {
     "array-element-newline": [
       "error",
       {
-        minItems: 2,
+        minItems: 4,
       },
     ],
     "block-spacing": 2,
