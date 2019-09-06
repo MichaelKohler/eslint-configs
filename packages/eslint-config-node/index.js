@@ -16,6 +16,7 @@ module.exports = {
     "no-use-before-define": 0,
     "handle-callback-err": 1,
     "security/detect-non-literal-fs-filename": 1,
+    "node/no-unpublished-import": 0,
   },
   extends: ["@michaelkohler/eslint-config-base", "plugin:node/recommended"],
 };
