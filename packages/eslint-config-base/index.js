@@ -168,7 +168,7 @@ module.exports = {
     "require-atomic-updates": 2,
     "no-async-promise-executor": 2,
     "no-misleading-character-class": 2,
-    "filenames/match-regex": [2, "^[a-z0-9-]+$"],
+    "filenames/match-regex": [2, "^[a-z0-9-.]+$"],
     "promise/always-return": 1,
     "security/detect-non-literal-fs-filename": 0,
     "sort-class-members/sort-class-members": [2, {
