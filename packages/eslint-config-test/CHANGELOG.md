@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.13](https://github.com/michaelkohler/eslint-configs/compare/v6.8.12...v6.8.13) (2019-10-07)
+
+**Note:** Version bump only for package @michaelkohler/eslint-config-test
+
+
+
+
+
 ## [6.8.12](https://github.com/michaelkohler/eslint-configs/compare/v6.8.11...v6.8.12) (2019-09-06)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-test

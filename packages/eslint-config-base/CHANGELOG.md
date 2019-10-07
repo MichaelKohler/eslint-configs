@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.13](https://github.com/michaelkohler/eslint-configs/compare/v6.8.12...v6.8.13) (2019-10-07)
+
+
+### Bug Fixes
+
+* **package:** update eslint-plugin-unicorn to version 11.0.0 ([8742c48](https://github.com/michaelkohler/eslint-configs/commit/8742c48))
+* **package:** update eslint-plugin-unicorn to version 12.0.0 ([952bf9d](https://github.com/michaelkohler/eslint-configs/commit/952bf9d))
+
+
+
+
+
 ## [6.8.11](https://github.com/michaelkohler/eslint-configs/compare/v6.8.10...v6.8.11) (2019-09-06)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-base
