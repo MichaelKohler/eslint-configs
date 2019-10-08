@@ -74,11 +74,11 @@ module.exports = {
     "no-catch-shadow": 2,
     "no-shadow": 1,
     "array-bracket-newline": ["error", {
-      multiline: true,
+      minItems: 2,
     }],
     "array-bracket-spacing": [2, "never"],
     "array-element-newline": ["error", {
-      multiline: true,
+      minItems: 2,
     }],
     "block-spacing": 2,
     "brace-style": [2, "stroustrup"],
@@ -115,8 +115,7 @@ module.exports = {
     "no-unneeded-ternary": 2,
     "no-whitespace-before-property": 2,
     "object-curly-newline": ["error", {
-      multiline: true,
-      consistent: true,
+      minProperties: 4,
     }],
     "object-curly-spacing": [2, "always"],
     "object-property-newline": 2,
