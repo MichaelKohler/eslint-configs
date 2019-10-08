@@ -79,7 +79,6 @@ module.exports = {
     "array-bracket-spacing": [2, "never"],
     "array-element-newline": ["error", {
       multiline: true,
-      consistent: true,
     }],
     "block-spacing": 2,
     "brace-style": [2, "stroustrup"],
