@@ -4,6 +4,7 @@ module.exports = {
   rules: {
     "no-fallthrough": 0,
     "one-var": 0,
+    "array-bracket-newline": 0,
     "react/default-props-match-prop-types": "error",
     "react/no-access-state-in-setstate": "error",
     "react/no-danger": "error",
