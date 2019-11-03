@@ -1,6 +1,6 @@
 {
   "name": "@michaelkohler/eslint-config-extension",
-  "version": "6.8.16",
+  "version": "6.8.17",
   "description": "Browser extension linting config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
-    "@michaelkohler/eslint-config-browser": "^6.8.16"
+    "@michaelkohler/eslint-config-browser": "^6.8.17"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"

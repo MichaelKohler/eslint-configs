@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.17](https://github.com/michaelkohler/eslint-configs/compare/v6.8.16...v6.8.17) (2019-11-03)
+
+
+### Bug Fixes
+
+* **package:** update eslint-plugin-jsdoc to version 16.1.1 ([7880377](https://github.com/michaelkohler/eslint-configs/commit/7880377)), closes [#27](https://github.com/michaelkohler/eslint-configs/issues/27)
+* **package:** update eslint-plugin-jsdoc to version 17.0.0 ([793a261](https://github.com/michaelkohler/eslint-configs/commit/793a261))
+
+
+
+
+
 ## [6.8.16](https://github.com/michaelkohler/eslint-configs/compare/v6.8.15...v6.8.16) (2019-10-08)
 
 **Note:** Version bump only for package eslint-configs-michaelkohler
