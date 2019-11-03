@@ -22,10 +22,7 @@ module.exports = {
     "react/jsx-no-bind": "warn",
     "react/jsx-indent": ["error", 4],
     "react/jsx-equals-spacing": "error",
-    "react/jsx-curly-spacing": ["warn", {
-      when: "always",
-      children: true,
-    }],
+    "react/jsx-curly-spacing": 0,
     "react/jsx-filename-extension": "warn",
     "react/jsx-no-comment-textnodes": "warn",
     "react/jsx-tag-spacing": ["error", {
