@@ -25,7 +25,7 @@
     "eslint": ">=5.0.0"
   },
   "dependencies": {
-    "eslint-import-resolver-webpack": "^0.11.0",
+    "eslint-import-resolver-webpack": "^0.12.0",
     "eslint-plugin-import": "^2.16.0"
   },
   "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e"
