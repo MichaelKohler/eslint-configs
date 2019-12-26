@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@michaelkohler/eslint-config-base": "^6.8.17",
-    "eslint-plugin-node": "^10.0.0"
+    "eslint-plugin-node": "^11.0.0"
   },
   "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e"
 }
