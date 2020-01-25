@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.18](https://github.com/michaelkohler/eslint-configs/compare/v6.8.17...v6.8.18) (2020-01-25)
+
+
+### Bug Fixes
+
+* **package:** update eslint-import-resolver-webpack to version 0.12.0 ([b81b9fc](https://github.com/michaelkohler/eslint-configs/commit/b81b9fca724eeff7bc908175a0fe1c072176db4a))
+* **package:** update eslint-plugin-jsdoc to version 18.0.1 ([0be152d](https://github.com/michaelkohler/eslint-configs/commit/0be152d5635dd104bde7cd97b72c792b1920b86f)), closes [#32](https://github.com/michaelkohler/eslint-configs/issues/32)
+* **package:** update eslint-plugin-jsdoc to version 20.1.0 ([c4b18bf](https://github.com/michaelkohler/eslint-configs/commit/c4b18bfc3a8a298110ba4996a5188bd234d96ee7))
+* **package:** update eslint-plugin-jsdoc to version 21.0.0 ([00f121a](https://github.com/michaelkohler/eslint-configs/commit/00f121a1383cdd38ab56cd188a7b3d4a2a048081))
+* **package:** update eslint-plugin-node to version 11.0.0 ([954ddf7](https://github.com/michaelkohler/eslint-configs/commit/954ddf73dc63eac667e4010a7bdf1ef9355dea96))
+* **package:** update eslint-plugin-unicorn to version 13.0.0 ([f1186d6](https://github.com/michaelkohler/eslint-configs/commit/f1186d6864c34f3bca3c925f4811a844d884798f))
+* **package:** update eslint-plugin-unicorn to version 14.0.0 ([2e503db](https://github.com/michaelkohler/eslint-configs/commit/2e503db505cf191c24308f77a6c55bbc1f2dc850))
+* **package:** update eslint-plugin-unicorn to version 15.0.0 ([ee122df](https://github.com/michaelkohler/eslint-configs/commit/ee122dfd75218f72910824520e2e921b4f6f3dd5))
+* **package:** update eslint-plugin-vue to version 6.0.0 ([ce0dce7](https://github.com/michaelkohler/eslint-configs/commit/ce0dce77b4fc37f6103da01252f77189e1a6153d))
+
+
+
+
+
 ## [6.8.17](https://github.com/michaelkohler/eslint-configs/compare/v6.8.16...v6.8.17) (2019-11-03)
 
 
