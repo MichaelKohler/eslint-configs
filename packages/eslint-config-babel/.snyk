@@ -22,3 +22,11 @@ patch:
         patched: '2020-03-15T23:18:31.285Z'
     - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
         patched: '2020-03-15T23:18:31.285Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2020-03-15T23:22:43.476Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2020-03-15T23:22:43.476Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2020-03-15T23:22:43.476Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2020-03-15T23:22:43.476Z'
