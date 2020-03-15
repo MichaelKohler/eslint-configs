@@ -1,6 +1,6 @@
 {
   "name": "@michaelkohler/eslint-config-react",
-  "version": "6.8.19",
+  "version": "6.8.20",
   "description": "React and JSX linting config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
-    "@michaelkohler/eslint-config-babel": "^6.8.10",
-    "@michaelkohler/eslint-config-browser": "^6.8.19",
-    "@michaelkohler/eslint-config-webpack": "^6.8.18",
+    "@michaelkohler/eslint-config-babel": "^6.8.20",
+    "@michaelkohler/eslint-config-browser": "^6.8.20",
+    "@michaelkohler/eslint-config-webpack": "^6.8.20",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4"
   },
