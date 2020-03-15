@@ -6,3 +6,11 @@ patch:
   SNYK-JS-LODASH-450202:
     - eslint-plugin-import > lodash:
         patched: '2020-03-15T23:29:52.554Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2020-03-15T23:31:23.829Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2020-03-15T23:31:23.829Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2020-03-15T23:31:23.829Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2020-03-15T23:31:23.829Z'
