@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
-    "@michaelkohler/eslint-config-browser": "^6.8.20"
+    "@michaelkohler/eslint-config-browser": "^6.8.18"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"
