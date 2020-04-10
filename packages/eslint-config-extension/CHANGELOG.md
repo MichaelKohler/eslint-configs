@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
+
+
+### Bug Fixes
+
+* upgrade @michaelkohler/eslint-config-browser from 6.6.1 to 6.8.18 ([c4ae539](https://github.com/michaelkohler/eslint-configs/commit/c4ae539e71a3f596d36759d11bf848fb823f6b57))
+* upgrade @michaelkohler/eslint-config-browser from 6.8.18 to 6.8.20 ([443ff3d](https://github.com/michaelkohler/eslint-configs/commit/443ff3d186b6cc4e0c9fb008377c0b4dff264a70))
+
+
+
+
+
 ## [6.8.20](https://github.com/michaelkohler/eslint-configs/compare/v6.8.19...v6.8.20) (2020-03-15)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-extension

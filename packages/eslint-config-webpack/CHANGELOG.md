@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
+
+
+### Bug Fixes
+
+* packages/eslint-config-webpack/package.json, packages/eslint-config-webpack/package-lock.json & packages/eslint-config-webpack/.snyk to reduce vulnerabilities ([bc01288](https://github.com/michaelkohler/eslint-configs/commit/bc012883cc6baaddddd6c6be4dcfd2ff7b902b7d))
+* packages/eslint-config-webpack/package.json, packages/eslint-config-webpack/package-lock.json & packages/eslint-config-webpack/.snyk to reduce vulnerabilities ([e67c0fa](https://github.com/michaelkohler/eslint-configs/commit/e67c0fac2e114ae6a989b39e4def194f915850a2))
+* upgrade eslint-import-resolver-webpack from 0.12.0 to 0.12.1 ([40d5135](https://github.com/michaelkohler/eslint-configs/commit/40d513589d87e725209338fc614f94c52b8b22fa))
+* upgrade eslint-plugin-import from 2.16.0 to 2.20.2 ([e30a694](https://github.com/michaelkohler/eslint-configs/commit/e30a69462f8f668cd3411d4656b5dce8ad8cb59d))
+* upgrade snyk from 1.299.0 to 1.300.0 ([12c4994](https://github.com/michaelkohler/eslint-configs/commit/12c49946b7fa0cdde879f8803738d2977d31431d))
+* upgrade snyk from 1.300.0 to 1.301.0 ([6b3a428](https://github.com/michaelkohler/eslint-configs/commit/6b3a428aa4d47385ea3034e0ffbbc95d8722d3ba))
+* upgrade snyk from 1.301.0 to 1.303.0 ([700b66f](https://github.com/michaelkohler/eslint-configs/commit/700b66fd0e55e1d2e49094f98dcfb34d2384927d))
+* upgrade snyk from 1.303.0 to 1.303.1 ([e3400a1](https://github.com/michaelkohler/eslint-configs/commit/e3400a1ad8995576f85240e1491136c4b02aa296))
+* upgrade snyk from 1.303.1 to 1.304.0 ([4f0c25d](https://github.com/michaelkohler/eslint-configs/commit/4f0c25dd1b1298f3b3b52b13cd39684b7296aadb))
+* upgrade snyk from 1.304.0 to 1.305.0 ([b294bdf](https://github.com/michaelkohler/eslint-configs/commit/b294bdf6e1c1d875e729bf01f70ce2e04c81697e))
+
+
+
+
+
 ## [6.8.20](https://github.com/michaelkohler/eslint-configs/compare/v6.8.19...v6.8.20) (2020-03-15)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-webpack

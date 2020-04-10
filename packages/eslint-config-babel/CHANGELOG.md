@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
+
+
+### Bug Fixes
+
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([e5a9671](https://github.com/michaelkohler/eslint-configs/commit/e5a9671066043abb64b52c8cb05b7d08fb754bd7))
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([32f00a2](https://github.com/michaelkohler/eslint-configs/commit/32f00a20e3c4572e63cec38aa599e411e914227a))
+* upgrade babel-eslint from 10.0.1 to 10.1.0 ([16562c7](https://github.com/michaelkohler/eslint-configs/commit/16562c76ca2e8f51e5b7faefe909cfffd83687e2))
+* upgrade snyk from 1.299.0 to 1.301.0 ([dd16aff](https://github.com/michaelkohler/eslint-configs/commit/dd16affb5587718dc2c0d2f986cb0884098bf2b5))
+* upgrade snyk from 1.301.0 to 1.305.0 ([304e818](https://github.com/michaelkohler/eslint-configs/commit/304e818630bb02636e3b203f7c5fd3b7fab7839b))
+
+
+
+
+
 ## [6.8.20](https://github.com/michaelkohler/eslint-configs/compare/v6.8.19...v6.8.20) (2020-03-15)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-babel

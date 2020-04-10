@@ -1,6 +1,6 @@
 {
   "name": "@michaelkohler/eslint-config-webpack",
-  "version": "6.8.20",
+  "version": "6.8.21",
   "description": "Webpack specific linting config michaelkohler likes.",
   "main": "index.js",
   "scripts": {

@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
+
+
+### Bug Fixes
+
+* upgrade eslint-plugin-array-func from 3.1.3 to 3.1.4 ([0f9f7f3](https://github.com/michaelkohler/eslint-configs/commit/0f9f7f3d354c697d0b747040d16058cbc78c6bfa))
+* upgrade eslint-plugin-array-func from 3.1.4 to 3.1.5 ([e774a5f](https://github.com/michaelkohler/eslint-configs/commit/e774a5f15d97bbc5b67765decaa819c706eaa99a))
+* upgrade eslint-plugin-eslint-comments from 3.1.0 to 3.1.2 ([a9bf481](https://github.com/michaelkohler/eslint-configs/commit/a9bf481246366fe248fa78e2c7d434e3d834e0bf))
+* upgrade eslint-plugin-jsdoc from 22.0.0 to 22.0.1 ([831d9be](https://github.com/michaelkohler/eslint-configs/commit/831d9bebd0509318b2a2210783f6f443fbe3f5d9))
+* upgrade eslint-plugin-jsdoc from 22.0.1 to 22.1.0 ([99a9cea](https://github.com/michaelkohler/eslint-configs/commit/99a9ceab760e81136ae54535b7ab0e7bb5df1290))
+* upgrade eslint-plugin-promise from 4.0.1 to 4.2.1 ([cf3ed10](https://github.com/michaelkohler/eslint-configs/commit/cf3ed1035a45bec7b08ca183ebbc722129add538))
+* upgrade eslint-plugin-sort-class-members from 1.4.0 to 1.6.0 ([ec3fcfe](https://github.com/michaelkohler/eslint-configs/commit/ec3fcfeade3787d00eb5ad4dfc355d4cdaa58b8f))
+* upgrade eslint-plugin-unicorn from 17.0.0 to 17.2.0 ([3b47a6f](https://github.com/michaelkohler/eslint-configs/commit/3b47a6ffa7fbcc0a25a7d5a3a6b8e2ed0ab818b6))
+
+
+
+
+
 ## [6.8.20](https://github.com/michaelkohler/eslint-configs/compare/v6.8.19...v6.8.20) (2020-03-15)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-base

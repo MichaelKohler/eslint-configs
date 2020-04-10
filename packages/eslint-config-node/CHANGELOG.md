@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
+
+
+### Bug Fixes
+
+* upgrade @michaelkohler/eslint-config-base from 6.8.17 to 6.8.18 ([f11b65e](https://github.com/michaelkohler/eslint-configs/commit/f11b65e1a6764221f2379290f854afdfc15ccdab))
+* upgrade @michaelkohler/eslint-config-base from 6.8.18 to 6.8.20 ([17f5c32](https://github.com/michaelkohler/eslint-configs/commit/17f5c32e7d1ac6f0fa09ba4db88668afeb5f9bb3))
+* upgrade eslint-plugin-node from 11.0.0 to 11.1.0 ([3e867ec](https://github.com/michaelkohler/eslint-configs/commit/3e867ec8f7087a2c4f4198022ac1d2dbdff5a0ac))
+
+
+
+
+
 ## [6.8.20](https://github.com/michaelkohler/eslint-configs/compare/v6.8.19...v6.8.20) (2020-03-15)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-node
