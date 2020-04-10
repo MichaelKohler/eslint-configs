@@ -73,15 +73,10 @@ module.exports = {
     "yoda": 2,
     "no-catch-shadow": 2,
     "no-shadow": 1,
-    "array-bracket-newline": ["error", {
-      minItems: 3,
-    }],
+    "array-bracket-newline": ["error", "consistent"],
     "array-bracket-spacing": [2, "never"],
-    "array-element-newline": ["error", {
-      minItems: 3,
-    }],
+    "array-element-newline": ["error", "consistent"],
     "block-spacing": 2,
-    "brace-style": [2, "stroustrup"],
     "camelcase": 2,
     "comma-dangle": [2, "always-multiline"],
     "comma-spacing": 2,
@@ -115,7 +110,6 @@ module.exports = {
     "no-unneeded-ternary": 2,
     "no-whitespace-before-property": 2,
     "object-curly-newline": ["error", {
-      minProperties: 3,
       "consistent": true,
     }],
     "object-curly-spacing": [2, "always"],
