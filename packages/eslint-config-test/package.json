@@ -25,9 +25,9 @@
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
     "@michaelkohler/eslint-config-node": "^6.8.21",
-    "eslint-import-resolver-node": "^0.3.3",
-    "eslint-plugin-ava": "^10.3.0",
-    "eslint-plugin-import": "^2.20.2",
+    "eslint-import-resolver-node": "^0.3.2",
+    "eslint-plugin-ava": "^6.0.0",
+    "eslint-plugin-import": "^2.16.0",
     "snyk": "^1.319.2"
   },
   "peerDependencies": {
