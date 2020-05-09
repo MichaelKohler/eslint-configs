@@ -4,7 +4,9 @@
   "description": "Node specific eslint config michaelkohler likes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -26,7 +28,9 @@
   },
   "dependencies": {
     "@michaelkohler/eslint-config-base": "^6.8.21",
-    "eslint-plugin-node": "^11.1.0"
+    "eslint-plugin-node": "^11.1.0",
+    "snyk": "^1.319.2"
   },
-  "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e"
+  "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e",
+  "snyk": true
 }
