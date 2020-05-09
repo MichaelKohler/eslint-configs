@@ -59,3 +59,7 @@ patch:
         patched: '2020-04-30T22:28:32.227Z'
     - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
         patched: '2020-04-30T22:28:32.227Z'
+    - '@michaelkohler/eslint-config-node > @michaelkohler/eslint-config-base > eslint-plugin-jsdoc > lodash':
+        patched: '2020-05-09T13:42:44.487Z'
+    - '@michaelkohler/eslint-config-node > @michaelkohler/eslint-config-base > eslint-plugin-unicorn > lodash':
+        patched: '2020-05-09T13:42:44.487Z'
