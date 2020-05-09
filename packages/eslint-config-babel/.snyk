@@ -81,3 +81,21 @@ patch:
         patched: '2020-05-01T08:39:21.452Z'
     - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
         patched: '2020-05-01T08:39:21.452Z'
+    - babel-eslint > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2020-05-09T13:25:49.618Z'
