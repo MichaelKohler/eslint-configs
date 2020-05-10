@@ -29,7 +29,7 @@
   "dependencies": {
     "eslint-import-resolver-webpack": "^0.12.1",
     "eslint-plugin-import": "^2.20.2",
-    "snyk": "^1.316.1"
+    "snyk": "^1.319.2"
   },
   "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e",
   "snyk": true

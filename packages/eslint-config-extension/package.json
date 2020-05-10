@@ -25,7 +25,7 @@
   "homepage": "https://github.com/michaelkohler/eslint-configs#readme",
   "dependencies": {
     "@michaelkohler/eslint-config-browser": "^6.8.21",
-    "snyk": "^1.316.1"
+    "snyk": "^1.319.2"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"
