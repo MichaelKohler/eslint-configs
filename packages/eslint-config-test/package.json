@@ -28,7 +28,7 @@
     "eslint-import-resolver-node": "^0.3.3",
     "eslint-plugin-ava": "^10.3.0",
     "eslint-plugin-import": "^2.20.2",
-    "snyk": "^1.319.2"
+    "snyk": "^1.321.0"
   },
   "peerDependencies": {
     "eslint": ">=5.0.0"
