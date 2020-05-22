@@ -29,7 +29,7 @@
     "@michaelkohler/eslint-config-webpack": "^6.8.21",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
-    "snyk": "^1.323.0"
+    "snyk": "^1.323.1"
   },
   "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e",
   "snyk": true
