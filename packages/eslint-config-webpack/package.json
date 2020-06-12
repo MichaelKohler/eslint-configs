@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "eslint-import-resolver-webpack": "^0.12.1",
-    "eslint-plugin-import": "^2.21.1",
+    "eslint-plugin-import": "^2.21.2",
     "snyk": "^1.330.2"
   },
   "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e",
