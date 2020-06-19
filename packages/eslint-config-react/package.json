@@ -27,7 +27,7 @@
     "@michaelkohler/eslint-config-babel": "^6.8.21",
     "@michaelkohler/eslint-config-browser": "^6.8.22",
     "@michaelkohler/eslint-config-webpack": "^6.8.21",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
     "eslint-plugin-react": "^7.19.0",
     "snyk": "^1.335.0"
   },
