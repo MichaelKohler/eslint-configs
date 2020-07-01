@@ -28,7 +28,7 @@
     "@michaelkohler/eslint-config-browser": "^6.8.22",
     "@michaelkohler/eslint-config-webpack": "^6.8.21",
     "eslint-plugin-jsx-a11y": "^6.3.1",
-    "eslint-plugin-react": "^7.20.2",
+    "eslint-plugin-react": "^7.20.3",
     "snyk": "^1.335.0"
   },
   "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e",
