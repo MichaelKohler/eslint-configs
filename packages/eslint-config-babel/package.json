@@ -1,6 +1,6 @@
 {
   "name": "@michaelkohler/eslint-config-babel",
-  "version": "6.8.23",
+  "version": "6.8.24",
   "description": "Config for usage with babeld projects Michael likes.",
   "main": "index.js",
   "scripts": {
