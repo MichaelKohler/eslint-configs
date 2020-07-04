@@ -4,9 +4,7 @@
   "description": "Config for usage with babeld projects Michael likes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -28,9 +26,6 @@
   },
   "dependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint-plugin-babel": "^5.3.1",
-    "snyk": "^1.334.0"
-  },
-  "gitHead": "7e411e760fa35903a870055c50d5a5c362cffd5e",
-  "snyk": true
+    "eslint-plugin-babel": "^5.3.1"
+  }
 }
