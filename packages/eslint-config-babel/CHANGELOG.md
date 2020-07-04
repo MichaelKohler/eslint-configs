@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([daa136d](https://github.com/michaelkohler/eslint-configs/commit/daa136d8b1a8aa3b5b7024a0a7c5947647fc620f))
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([12575c4](https://github.com/michaelkohler/eslint-configs/commit/12575c4204945b0f531140efd1fa042a3be58546))
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([faea4f1](https://github.com/michaelkohler/eslint-configs/commit/faea4f16a12279774b2ba9761338e6cec519423c))
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([d1c7a77](https://github.com/michaelkohler/eslint-configs/commit/d1c7a772a73b60a4330d93978024bc788dc50348))
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([d46a8d8](https://github.com/michaelkohler/eslint-configs/commit/d46a8d8131ddcbc44ffd836facb33d2a9ad61ab5))
+* packages/eslint-config-babel/package.json, packages/eslint-config-babel/package-lock.json & packages/eslint-config-babel/.snyk to reduce vulnerabilities ([6765ba1](https://github.com/michaelkohler/eslint-configs/commit/6765ba13f65bd0f1a417733d0bb37e351d9d3a2b))
+* upgrade eslint-plugin-babel from 5.3.0 to 5.3.1 ([#162](https://github.com/michaelkohler/eslint-configs/issues/162)) ([7cc3d3d](https://github.com/michaelkohler/eslint-configs/commit/7cc3d3d7c2f757b07149c9c78dddf9a869f713c7))
+* upgrade snyk from 1.305.0 to 1.305.1 ([9b57c2c](https://github.com/michaelkohler/eslint-configs/commit/9b57c2cb6943e55f0e32330a3c902b4bc5e77c21))
+* upgrade snyk from 1.305.1 to 1.306.0 ([62613d4](https://github.com/michaelkohler/eslint-configs/commit/62613d48681ea01dc2814c9fcbc99e7814c36fee))
+* upgrade snyk from 1.306.0 to 1.307.0 ([3d98e3b](https://github.com/michaelkohler/eslint-configs/commit/3d98e3bf7b1cecab2019de1a84b4a027492872b7))
+* upgrade snyk from 1.306.0 to 1.307.0 ([a5c5727](https://github.com/michaelkohler/eslint-configs/commit/a5c5727bb7f5f67caae9adfb2732dde60fd26c07))
+* upgrade snyk from 1.307.0 to 1.311.0 ([f274e39](https://github.com/michaelkohler/eslint-configs/commit/f274e39c2c410b699b89c0091f4409bca8ffdc2b))
+* upgrade snyk from 1.307.0 to 1.311.0 ([928a207](https://github.com/michaelkohler/eslint-configs/commit/928a207b87dcafb69ed55e46de720e19d58bcc30))
+* upgrade snyk from 1.328.0 to 1.334.0 ([#145](https://github.com/michaelkohler/eslint-configs/issues/145)) ([8eaa8f0](https://github.com/michaelkohler/eslint-configs/commit/8eaa8f083bc2bb7ea20100399ebd5a239fce78e5))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 

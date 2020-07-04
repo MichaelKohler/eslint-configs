@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* upgrade eslint-plugin-jsx-a11y from 6.2.3 to 6.3.0 ([#155](https://github.com/michaelkohler/eslint-configs/issues/155)) ([3405025](https://github.com/michaelkohler/eslint-configs/commit/3405025633a54bcb650d32227910d4f8da866a19))
+* upgrade eslint-plugin-jsx-a11y from 6.3.0 to 6.3.1 ([#156](https://github.com/michaelkohler/eslint-configs/issues/156)) ([1251a2b](https://github.com/michaelkohler/eslint-configs/commit/1251a2bb8c944675c7c8262ad849f1348b4ffe52))
+* upgrade eslint-plugin-react from 7.19.0 to 7.20.1 ([#158](https://github.com/michaelkohler/eslint-configs/issues/158)) ([c642289](https://github.com/michaelkohler/eslint-configs/commit/c642289de94fc95fae6a2beba3b9ccf7ba01d123))
+* upgrade eslint-plugin-react from 7.20.1 to 7.20.2 ([#161](https://github.com/michaelkohler/eslint-configs/issues/161)) ([21f4734](https://github.com/michaelkohler/eslint-configs/commit/21f4734977d477a6330f9d787a2528dd7eb97dea))
+* upgrade eslint-plugin-react from 7.20.2 to 7.20.3 ([#163](https://github.com/michaelkohler/eslint-configs/issues/163)) ([3bb8218](https://github.com/michaelkohler/eslint-configs/commit/3bb821849378e0241e53ccf55eaed46387dd11a2))
+* upgrade snyk from 1.330.2 to 1.332.0 ([#138](https://github.com/michaelkohler/eslint-configs/issues/138)) ([e0f0006](https://github.com/michaelkohler/eslint-configs/commit/e0f0006d0a40e515695c1e7b879c6ee09698fe41))
+* upgrade snyk from 1.332.0 to 1.332.1 ([#139](https://github.com/michaelkohler/eslint-configs/issues/139)) ([50604e1](https://github.com/michaelkohler/eslint-configs/commit/50604e1b322bfce59044fdf39a1983b689c6a548))
+* upgrade snyk from 1.332.1 to 1.333.0 ([#142](https://github.com/michaelkohler/eslint-configs/issues/142)) ([13977a8](https://github.com/michaelkohler/eslint-configs/commit/13977a80593ad0b45cb976f507e5f24f2cb1c336))
+* upgrade snyk from 1.333.0 to 1.334.0 ([#143](https://github.com/michaelkohler/eslint-configs/issues/143)) ([d360be3](https://github.com/michaelkohler/eslint-configs/commit/d360be3ef30a20db79e9cea064c2bb06e8d87828))
+* upgrade snyk from 1.334.0 to 1.335.0 ([#146](https://github.com/michaelkohler/eslint-configs/issues/146)) ([ff86be3](https://github.com/michaelkohler/eslint-configs/commit/ff86be30b1ec5ac8a63f1030430665efa06f8bb1))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-react

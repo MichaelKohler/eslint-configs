@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* upgrade snyk from 1.321.0 to 1.332.1 ([#141](https://github.com/michaelkohler/eslint-configs/issues/141)) ([e65c3f1](https://github.com/michaelkohler/eslint-configs/commit/e65c3f15170db63ffbde75c73e3fec14595f2827))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* packages/eslint-config-base/package.json, packages/eslint-config-base/package-lock.json & packages/eslint-config-base/.snyk to reduce vulnerabilities ([111af6e](https://github.com/michaelkohler/eslint-configs/commit/111af6e739724c8ffeecb97557438c93985749cb))
+* packages/eslint-config-base/package.json, packages/eslint-config-base/package-lock.json & packages/eslint-config-base/.snyk to reduce vulnerabilities ([8c4baaf](https://github.com/michaelkohler/eslint-configs/commit/8c4baaf04c7b5ff007abda9091d5c4bb49c136cc))
+* packages/eslint-config-base/package.json, packages/eslint-config-base/package-lock.json & packages/eslint-config-base/.snyk to reduce vulnerabilities ([6131316](https://github.com/michaelkohler/eslint-configs/commit/6131316661694b4bccc3ccc2831bf41dcbc705f7))
+* upgrade eslint-plugin-jsdoc from 22.1.0 to 22.2.0 ([a21ba81](https://github.com/michaelkohler/eslint-configs/commit/a21ba81d8575d2d7b095a558c59bccb7500ce854))
+* upgrade eslint-plugin-jsdoc from 25.4.0 to 25.4.3 ([#137](https://github.com/michaelkohler/eslint-configs/issues/137)) ([1345f66](https://github.com/michaelkohler/eslint-configs/commit/1345f667fb8ab07b80094b48c49443bfbbd5caab))
+* upgrade eslint-plugin-sort-class-members from 1.6.0 to 1.7.0 ([6496ac4](https://github.com/michaelkohler/eslint-configs/commit/6496ac4f994f1f9303b5f4b7ea78278a2b75c89d))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 

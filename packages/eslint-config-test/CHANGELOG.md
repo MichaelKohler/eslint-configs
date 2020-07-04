@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* packages/eslint-config-test/.snyk to reduce vulnerabilities ([#102](https://github.com/michaelkohler/eslint-configs/issues/102)) ([bb68b1d](https://github.com/michaelkohler/eslint-configs/commit/bb68b1db99520f23ef16b5fe5495564909d058ef))
+* packages/eslint-config-test/package.json, packages/eslint-config-test/package-lock.json & packages/eslint-config-test/.snyk to reduce vulnerabilities ([3ef965b](https://github.com/michaelkohler/eslint-configs/commit/3ef965ba4b2fd4f321a140d6d57ce58ad85adb0f))
+* packages/eslint-config-test/package.json, packages/eslint-config-test/package-lock.json & packages/eslint-config-test/.snyk to reduce vulnerabilities ([713ac87](https://github.com/michaelkohler/eslint-configs/commit/713ac87abd79c3f8f664af0c2f01dd018272e319))
+* packages/eslint-config-test/package.json, packages/eslint-config-test/package-lock.json & packages/eslint-config-test/.snyk to reduce vulnerabilities ([833e4d0](https://github.com/michaelkohler/eslint-configs/commit/833e4d0701d4502ea4e0790acab68a88b2bcd394))
+* upgrade eslint-import-resolver-node from 0.3.3 to 0.3.4 ([#153](https://github.com/michaelkohler/eslint-configs/issues/153)) ([1a74fd6](https://github.com/michaelkohler/eslint-configs/commit/1a74fd6f0836d1acf1b958ec639008986e652957))
+* upgrade eslint-plugin-ava from 10.3.0 to 10.3.1 ([#152](https://github.com/michaelkohler/eslint-configs/issues/152)) ([8e89f5f](https://github.com/michaelkohler/eslint-configs/commit/8e89f5f3968ac0de8d4a61b7ab30d57dbf5dda01))
+* upgrade eslint-plugin-import from 2.20.2 to 2.21.2 ([#150](https://github.com/michaelkohler/eslint-configs/issues/150)) ([387d721](https://github.com/michaelkohler/eslint-configs/commit/387d721883067b8db390236ea5952349b6e81448))
+* upgrade eslint-plugin-import from 2.21.2 to 2.22.0 ([#160](https://github.com/michaelkohler/eslint-configs/issues/160)) ([924450e](https://github.com/michaelkohler/eslint-configs/commit/924450e7e5419f57f0f990a8c0eaad8011e844a1))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-test

@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* packages/eslint-config-webpack/package.json, packages/eslint-config-webpack/package-lock.json & packages/eslint-config-webpack/.snyk to reduce vulnerabilities ([9daba7d](https://github.com/michaelkohler/eslint-configs/commit/9daba7d03a4d00192c49d10d546ad2838705a295))
+* packages/eslint-config-webpack/package.json, packages/eslint-config-webpack/package-lock.json & packages/eslint-config-webpack/.snyk to reduce vulnerabilities ([18d032f](https://github.com/michaelkohler/eslint-configs/commit/18d032fb818c0d916578d7bf8ce10b116eaf115c))
+* packages/eslint-config-webpack/package.json, packages/eslint-config-webpack/package-lock.json & packages/eslint-config-webpack/.snyk to reduce vulnerabilities ([10b132c](https://github.com/michaelkohler/eslint-configs/commit/10b132c4979e5c8621c5b1e7f6c4a26ee268b20d))
+* upgrade eslint-import-resolver-webpack from 0.12.1 to 0.12.2 ([#154](https://github.com/michaelkohler/eslint-configs/issues/154)) ([7191cee](https://github.com/michaelkohler/eslint-configs/commit/7191cee7137875efacc1fa09500105d50d2c58d7))
+* upgrade eslint-plugin-import from 2.20.2 to 2.21.0 ([#148](https://github.com/michaelkohler/eslint-configs/issues/148)) ([63b4270](https://github.com/michaelkohler/eslint-configs/commit/63b427063a768658557089f5d34ac7d7dee59736))
+* upgrade eslint-plugin-import from 2.21.0 to 2.21.1 ([#149](https://github.com/michaelkohler/eslint-configs/issues/149)) ([707a745](https://github.com/michaelkohler/eslint-configs/commit/707a745abc65151d71ba9d70a334b999505bec2d))
+* upgrade eslint-plugin-import from 2.21.1 to 2.21.2 ([#151](https://github.com/michaelkohler/eslint-configs/issues/151)) ([97e5322](https://github.com/michaelkohler/eslint-configs/commit/97e5322bb1affafd944e8f1989b0045f616fda94))
+* upgrade eslint-plugin-import from 2.21.2 to 2.22.0 ([#157](https://github.com/michaelkohler/eslint-configs/issues/157)) ([e8a3de4](https://github.com/michaelkohler/eslint-configs/commit/e8a3de4da5bdb54b06ad16a9bbf942c23f1f0f79))
+* upgrade snyk from 1.305.0 to 1.305.1 ([b858fb0](https://github.com/michaelkohler/eslint-configs/commit/b858fb08cb5eb3f2d604361798ef174266d4114e))
+* upgrade snyk from 1.305.1 to 1.306.0 ([4f45f08](https://github.com/michaelkohler/eslint-configs/commit/4f45f08447b63bc0918fed7b3e79097f474b58e0))
+* upgrade snyk from 1.306.0 to 1.307.0 ([922e3ab](https://github.com/michaelkohler/eslint-configs/commit/922e3abfe3726c2a8722a454f9bc6985cf7decaf))
+* upgrade snyk from 1.306.0 to 1.307.0 ([3e837d9](https://github.com/michaelkohler/eslint-configs/commit/3e837d91db114519c0a28bd85ba17e0b7caf8b4b))
+* upgrade snyk from 1.307.0 to 1.309.0 ([99e64d0](https://github.com/michaelkohler/eslint-configs/commit/99e64d081cfcd6d7b1c9a6c4d7c1ed323f6acabc))
+* upgrade snyk from 1.307.0 to 1.309.0 ([0daa9fc](https://github.com/michaelkohler/eslint-configs/commit/0daa9fc6b05f751f1e7bede6e66fe6410815263f))
+* upgrade snyk from 1.309.0 to 1.310.0 ([b1b7e4a](https://github.com/michaelkohler/eslint-configs/commit/b1b7e4a6eb913619f1134fec31e897379ef78fbe))
+* upgrade snyk from 1.309.0 to 1.310.0 ([7503aac](https://github.com/michaelkohler/eslint-configs/commit/7503aacd0929e897527abdfdc2bc65f2b1d48c15))
+* upgrade snyk from 1.310.0 to 1.311.0 ([a83dc2a](https://github.com/michaelkohler/eslint-configs/commit/a83dc2a4623cf4d12566643fcc3d21474fe1f4a4))
+* upgrade snyk from 1.310.0 to 1.311.0 ([da328c9](https://github.com/michaelkohler/eslint-configs/commit/da328c990fe708cf5c9cae1bcee5c831fa6a141e))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 

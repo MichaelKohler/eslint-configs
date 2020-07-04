@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* upgrade eslint-plugin-compat from 3.7.0 to 3.8.0 ([#159](https://github.com/michaelkohler/eslint-configs/issues/159)) ([f267473](https://github.com/michaelkohler/eslint-configs/commit/f267473e89632dfd803ff591231d5c58aaad27a8))
+* upgrade snyk from 1.330.2 to 1.332.1 ([#140](https://github.com/michaelkohler/eslint-configs/issues/140)) ([3f08a83](https://github.com/michaelkohler/eslint-configs/commit/3f08a83617d11a6539e79b784c2c383022f993a1))
+* upgrade snyk from 1.332.1 to 1.334.0 ([#144](https://github.com/michaelkohler/eslint-configs/issues/144)) ([464beb5](https://github.com/michaelkohler/eslint-configs/commit/464beb50daf0e50f84cb14633a1de30a6c9a23f3))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 **Note:** Version bump only for package @michaelkohler/eslint-config-browser

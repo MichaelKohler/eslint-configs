@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.8.23](https://github.com/michaelkohler/eslint-configs/compare/v6.8.21...v6.8.23) (2020-07-04)
+
+
+### Bug Fixes
+
+* packages/eslint-config-extension/package.json, packages/eslint-config-extension/package-lock.json & packages/eslint-config-extension/.snyk to reduce vulnerabilities ([5f5f084](https://github.com/michaelkohler/eslint-configs/commit/5f5f0841ba42b6ffb4097a5dd1ade49fa7d9e9fb))
+* packages/eslint-config-extension/package.json, packages/eslint-config-extension/package-lock.json & packages/eslint-config-extension/.snyk to reduce vulnerabilities ([59a54f0](https://github.com/michaelkohler/eslint-configs/commit/59a54f0e31ec90b3b8bb7c15e38acd1494ad4c07))
+* packages/eslint-config-extension/package.json, packages/eslint-config-extension/package-lock.json & packages/eslint-config-extension/.snyk to reduce vulnerabilities ([f56e94e](https://github.com/michaelkohler/eslint-configs/commit/f56e94e1e4875588afa674e376a38a5ebce75672))
+
+
+
+
+
 ## [6.8.21](https://github.com/michaelkohler/eslint-configs/compare/v6.8.20...v6.8.21) (2020-04-10)
 
 
